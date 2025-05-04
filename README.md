@@ -9,9 +9,9 @@
 # 使用方法（例子）
 
 1. 进入一个 GAME 资源合集，是类似这样一个页面：
-   ![alt text](images\image1.png)
+   ![alt text](images/image1.png)
    一般是从这里进入
-   ![alt text](images\image2.png)
+   ![alt text](images/image2.png)
    然后复制网页地址：https://www.sounds-resource.com/pc_computer/enadreambbq/
 2. 打开 cmd 命令行，输入
 
