@@ -2,7 +2,7 @@
 
 [node.js](https://nodejs.org/en)
 
-# 这是什么
+# 这是什么(vg-resource下载器)
 
 这是 [vg-resource 的下载器](https://www.vg-resource.com/)，支持 sprites、models、textures 和 sounds 资源的下载
 
